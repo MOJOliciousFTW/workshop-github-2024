@@ -1,0 +1,2 @@
+## Discussion
+Writing the discussion before all other chapters has proven difficult, as the entire fundament for a healthy discussion is removed. In conclusion, this section is an example of bad practice.
