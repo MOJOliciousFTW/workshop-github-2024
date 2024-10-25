@@ -1,6 +1,6 @@
 # workshop-github-2024
 Introduction
-
+This is a repo aiming to write a book hosted in GitHub Pages.
 
 See Issues and contribute.
 
