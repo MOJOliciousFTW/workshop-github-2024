@@ -9,4 +9,4 @@ Is this a table?
 | Quality   | Wicked  | Cutting |
 
 Is this a picture?
-![appletree](https://github.com/MOJOliciousFTW/workshop-github-2024/main/Paper/02_Methods/appletree.png?raw=true)
+![appletree](./appletree.png?raw=true)
