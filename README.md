@@ -1,13 +1,11 @@
+Intro
 # workshop-github-2024
 Introduction
 This is a repo aiming to write a book hosted in GitHub Pages.
 
 See Issues and contribute.
 
-![image](https://github.com/user-attachments/assets/3369118a-8368-4307-86d1-9dcae4c649c6)
+## Introduction
+main
 
-See Projects for plan
-
-![image](https://github.com/user-attachments/assets/eeaeb21a-d70c-4693-a10b-94a6cf5a1009)
-
-https://github.com/users/MOJOliciousFTW/projects/12
+This repository aims to write a book hosted on GitHub Pages.
