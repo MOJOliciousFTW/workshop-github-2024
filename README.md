@@ -1,4 +1,6 @@
 # workshop-github-2024
+
+The repository is created as a part of the Workshop
 See Issues and contribute.
 
 ![image](https://github.com/user-attachments/assets/3369118a-8368-4307-86d1-9dcae4c649c6)
