@@ -9,4 +9,4 @@ Is this a table?
 | Quality   | Wicked  | Cutting |
 
 Is this a picture?
-![Appletree]([http://url/to/img.png](https://photos.app.goo.gl/3Ztan476EPDvoYjo7))
+![appletree](./appletree.png?raw=true)
